@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/static/css/main.4b169742.chunk.css",
+    "main.js": "/static/js/main.b1934496.chunk.js",
+    "main.js.map": "/static/js/main.b1934496.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.99dbf700.js",
+    "runtime-main.js.map": "/static/js/runtime-main.99dbf700.js.map",
+    "static/js/2.7eea6573.chunk.js": "/static/js/2.7eea6573.chunk.js",
+    "static/js/2.7eea6573.chunk.js.map": "/static/js/2.7eea6573.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.4bc8a523ae0b7353689301dd043cf4f1.js": "/precache-manifest.4bc8a523ae0b7353689301dd043cf4f1.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.4b169742.chunk.css.map": "/static/css/main.4b169742.chunk.css.map",
+    "static/js/2.7eea6573.chunk.js.LICENSE.txt": "/static/js/2.7eea6573.chunk.js.LICENSE.txt",
+    "static/media/index.scss": "/static/media/OpenSans-Regular.3ed9575d.ttf",
+    "static/media/SanjayDhar.jpg": "/static/media/SanjayDhar.f0ed69e5.jpg",
+    "static/media/aboutus.jpg": "/static/media/aboutus.3cb2bd8a.jpg",
+    "static/media/abt-us.jpg": "/static/media/abt-us.4097fb60.jpg",
+    "static/media/abtus.jpg": "/static/media/abtus.66a731dd.jpg",
+    "static/media/activity.svg": "/static/media/activity.0ae74b4d.svg",
+    "static/media/registration.css": "/static/media/announces.ce33f55e.jpg",
+    "static/media/dlittphD.jpeg": "/static/media/dlittphD.20ffefcf.jpeg",
+    "static/media/identify.svg": "/static/media/identify.14b9d835.svg",
+    "static/media/nirmohiUncle.jpg": "/static/media/nirmohiUncle.6879155b.jpg",
+    "static/media/prakharLogo.jpeg": "/static/media/prakharLogo.da6c7049.jpeg",
+    "static/media/talent.svg": "/static/media/talent.520ebd64.svg",
+    "static/media/vision.css": "/static/media/vision.98483423.jpg",
+    "static/media/Jumbotron.css": "/static/media/wallpaper2you_80589.e4eb9785.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.99dbf700.js",
+    "static/js/2.7eea6573.chunk.js",
+    "static/css/main.4b169742.chunk.css",
+    "static/js/main.b1934496.chunk.js"
+  ]
+}
