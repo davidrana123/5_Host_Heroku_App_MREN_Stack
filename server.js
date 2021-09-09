@@ -2,7 +2,7 @@ const express = require("express");
 const app = express();
 const cors = require("cors")
 const mongoose = require("mongoose")
-
+const port = process.env.PORT || 5000;
 
 app.use(cors());
 app.use(express.json());
@@ -14,7 +14,7 @@ app.use("/", require("./routes/noteRoute.js"));
 
 //heroku
 if(process.env.NODE_ENV=="production"){
-    app.use(express.static("prakhar-master/build"));
+    app.use(express.static("client/build"));
 }
 
 if(process.env.NODE_ENV == 'production') {
@@ -24,6 +24,6 @@ if(process.env.NODE_ENV == 'production') {
     })
 }
 
-app.listen( process.env.PORT || 3001, function() {
-    console.log("express server is running port on 3001")
+app.listen(port, function() {
+    console.log('express is runing');
 })
