@@ -1,0 +1,41 @@
+.vision{
+   background-size: cover;
+   background: linear-gradient(rgba(0,0,0,0.55), rgba(0,0,0,0.55)) , url('./assets/vision/vision.jpg') center center;
+   background-size: cover;
+   -webkit-background-size: cover;
+   -moz-background-size: cover;
+   -o-background-size: cover;
+   color: white;
+   min-height: 100vh;
+   display: flex;
+   align-items: center;
+   justify-content: center;
+}
+
+.vision-content{ 
+   font-family: 'Open Sans';
+}
+
+.vision-content > h1{
+font-weight: bold;
+line-height: 54px;
+text-decoration-line: underline;
+
+}
+
+.vision-content > p {
+font-size: 20px;
+line-height: 27px;
+}
+
+.how-it-works::before,.how-it-works::after{
+   display: inline-block;
+   content: "";
+   border-top: 1px solid #FFF;
+   width: 20%;
+   height: 100px;
+   margin: 0 2rem;
+   transform: translateY(5rem);
+}
+
+
